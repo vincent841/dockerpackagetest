@@ -1,0 +1,6 @@
+[submodule "robotics"]
+	path = robotics
+	url = https://github.com/things-factory/robotics.git
+[submodule "CoboMarkerTracking"]
+	path = CoboMarkerTracking
+	url = https://github.com/aidoop/CoboMarkerTracking.git
